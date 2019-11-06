@@ -27,3 +27,8 @@
 
 - Teacher Review
 - CodeFluencer Web
+
+## Хэрэгтэй Мэдээллүүд
+
+- [CodeFluencer Awesome](https://github.com/Mmeeer/codefluencer/tree/master/awesome)
+- [Algorithm](https://github.com/Mmeeer/codefluencer/tree/master/algorithm)
