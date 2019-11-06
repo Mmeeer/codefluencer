@@ -28,7 +28,6 @@
 ## Vue.js
 - [FreeCodeCamp Vue.js Сургалт](https://www.youtube.com/watch?v=4deVCNJq3qc)
 
-
 ## Vue.js vs Angular.js vs React.js
 - [Харьцуулалт](https://www.youtube.com/watch?v=SWZ_4YBFBhs)
 
