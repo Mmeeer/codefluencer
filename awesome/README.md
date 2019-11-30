@@ -36,3 +36,6 @@
 
 ## React.js
 - [FreeCodeCamp React.js Сургалт](https://www.youtube.com/watch?v=DLX62G4lc44)
+
+## Nuxt.js
+- [Learn Nuxt.js Youtube Video](https://www.youtube.com/watch?v=nteDXuqBfn0)
